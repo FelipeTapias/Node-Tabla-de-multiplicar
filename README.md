@@ -18,3 +18,16 @@ Para el desarrollo de este proyecto es importante tener en cuenta las siguientes
 
 1. El IDE de trabajo elegido es VSCode [installar](https://code.visualstudio.com/)
 2. Todo el codigo debera estar escrito en ingles.
+
+### Notas
+
+```
+Opciones:
+      --help     Muestra ayuda                                        [booleano]
+      --version  Muestra número de versión                            [booleano]
+  -b, --base     Es la base de la tabla a generar           [número] [requerido]
+  -l, --listar   Muestra la tabla en consola         [booleano] [defecto: false]
+  -h, --hasta    Cantidad de veces a multiplicar la base  [número] [defecto: 10]
+
+```
+
